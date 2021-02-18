@@ -1,0 +1,40 @@
+{
+    "shortcuts": [
+    { 
+        "id":1,
+        "name": "Prakticum", 
+        "url": "https://prakticum.fi", 
+        "img": "/img/prakticum-logo.png" 
+    },
+    { 
+        "id":2,
+        "name": "Wilma", 
+        "url": "https://prakticum.inschool.fi", 
+        "img": "/img/prakticum-logo.png" 
+    },
+    { 
+        "id":3,
+        "name": "e-post", 
+        "url": "https://outlook.office.com/", 
+        "img": "/img/prakticum-logo.png" 
+    },
+    { 
+        "id":4,
+        "name": "Google drive", 
+        "url": "https://drive.google.com", 
+        "img": "/img/prakticum-logo.png" 
+    },
+    { 
+        "id":5,
+        "name": "Google classroom", 
+        "url": "https://classroom.google.com", 
+        "img": "/img/prakticum-logo.png" 
+    },
+    { 
+        "id":6,
+        "name": "Github", 
+        "url": "https://github.com", 
+        "img": "/img/prakticum-logo.png" 
+    }
+  ]
+}
